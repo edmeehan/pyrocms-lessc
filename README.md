@@ -1,9 +1,11 @@
 #PyroCMS Less Compiler Plugin
 =============================
+###Plugin - Easy part
+Edward Meehan @ Wetumka Interactive LLC
 
-Plugin by - Edward Meehan @ Wetumka Interactive LLC
-
-PHP Less Compiler - github.com/leafo/lessphp
+###PHP Compiler - The guy that did the hard part
+https://github.com/leafo/lessphp
+http://leafo.net
 
 #How to use
 
