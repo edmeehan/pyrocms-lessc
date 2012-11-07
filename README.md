@@ -1,4 +1,6 @@
-pyrocms-lessc
-=============
+[PyroCMS Less Compiler Plugin]
+=============================
 
-A plugin less compiler built in PHP - great for Twitter Bootstrap projects
+Plugin by - Edward Meehan @ Wetumka Interactive LLC
+
+PHP Less Compiler - github.com/leafo/lessphp
